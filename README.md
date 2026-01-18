@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working at Accolite.<br>I am a backend developer.<br>I work on Java , Spring Boot, SQL, NoSQL, Kafka
+I am currently working at Accolite Digital as Associate Director.<br>I have worked for clients like OLA Electric, Northern Arc Capital, Prudential.
 
 
 ## 🌐 Socials:
